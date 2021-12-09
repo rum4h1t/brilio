@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Info terkini",
+  "author":"brilio",
   "remove-comment-html":true,
-  "target":"https://brilio.net",
+  "target":"https://brainly.co.id",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
